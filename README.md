@@ -6,5 +6,5 @@ Smart logistics automation system using YOLO, QR/OCR, MQTT and AGV
 <img width="734" height="844" alt="4" src="https://github.com/user-attachments/assets/5a3c08a7-7e7b-4f34-bb9a-372a1c405856" />
 <img width="732" height="866" alt="5" src="https://github.com/user-attachments/assets/7f04b098-1743-4d05-9963-f03d92f84042" />
 <img width="739" height="826" alt="6" src="https://github.com/user-attachments/assets/3e014a35-9e32-458e-8941-1880ac6dc35a" />
-<img width="737" height="530" alt="7" src="https://github.com/user-attachments/assets/4e9ccac5-d192-406e-9dd9-e444470cd2b4" />
+<img width="737" height="530" alt="7(1)" src="https://github.com/user-attachments/assets/4e9ccac5-d192-406e-9dd9-e444470cd2b4" />
 <img width="728" height="486" alt="8" src="https://github.com/user-attachments/assets/4b97eb6e-2e31-4ce8-8786-9b9c85883965" />
